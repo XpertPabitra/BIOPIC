@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="AI Buddy" width="160" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </p>
 
-# 👋 **Welcome to Pabitra's Dev xpert World 🚀**
+# 👋 **Welcome to Pabitra's Dev Xpert World 🚀**
 
 🎓 Final Year B.Tech CSE Student  
 💻 Aspiring **Data Engineer | Data Analyst | Software Engineer**  
