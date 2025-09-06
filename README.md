@@ -1,9 +1,5 @@
 
-<!-- AI Buddy Profile Picture -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="AI Buddy" width="160" style="border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</p>
-
+![Banner](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 # 👋 **Welcome to Pabitra's Dev Xpert World 🚀**
 
 🎓 Final Year B.Tech CSE Student  
@@ -32,6 +28,11 @@
 - 🔹 VS Code | Command Line  
 
 ---
+### 🛠️ My Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## 📂 My Projects  
 
